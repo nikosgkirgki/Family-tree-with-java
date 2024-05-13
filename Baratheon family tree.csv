@@ -1,0 +1,33 @@
+Steffon Baratheon,Man,
+Steffon Baratheon,Husband,Cassana Estemont
+Steffon Baratheon,Father,Robert Baratheon
+Steffon Baratheon,Father,Stannis Baratheon
+Steffon Baratheon,Father,Renly Baratheon
+Cassana Estemont,Woman,
+Cassana Estemont,Wife,Steffon Baratheon
+Cassana Estemont,Mother,Robert Baratheon
+Cassana Estemont,Mother,Renly Baratheon
+Cassana Estemont,Mother,Stannis Baratheon
+Robert Baratheon,Man,
+Robert Baratheon,Husband,Cersei Lannister
+Robert Baratheon,Father,Gendry
+Cersei Lannister,Woman,
+Cersei Lannister,Wife,Robert Baratheon
+Cersei Lannister,Mother,Joffrey Baratheon
+Cersei Lannister,Mother,Myrcella Baratheon
+Cersei Lannister,Mother,Tommen Baratheon
+Stannis Baratheon,Man,
+Stannis Baratheon,Husband,Selyse Baratheon
+Stannis Baratheon,Father,Shireen Baratheon
+Selyse Baratheon,Woman,
+Selyse Baratheon,Wife,Stannis Baratheon
+Selyse Baratheon,Mother,Shireen Baratheon
+Renly Baratheon,Man,
+Renly Baratheon,Husband,Margaery Tyrell
+Margaery Tyrell,Woman,
+Margaery Tyrell,Wife,Renly Baratheon
+Gendry,Man,
+Joffrey Baratheon,Man,
+Myrcella Baratheon,Woman,
+Tommen Baratheon,Man,
+Shireen Baratheon,Woman,
